@@ -24,6 +24,7 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
+        "beegridtable": "^1.1.3",
         "font-awesome": "^4.7.0",
         "vue-carousel": "^0.18.0",
         "vue-easy-toast": "^1.0.5",

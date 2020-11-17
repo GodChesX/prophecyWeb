@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/d8ffc707-1ca4-4948-9d15-4971f780f8b7/resourceGroups/kkuroadtripweb/providers/Microsoft.Web/sites/kkuroadtripweb"
+}
